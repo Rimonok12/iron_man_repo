@@ -1,0 +1,13 @@
+{
+    "vsintellicode.python.completionsEnabled": false,
+    "material-icon-theme.files.associations": {
+
+    },
+    "vsicons.associations.files": [
+    "files.associations": {
+    "*.js": "javascript"
+}
+    ],
+    "vsicons.associations.fileDefault.file_light": null,
+    "vsicons.associations.fileDefault.file": null
+}

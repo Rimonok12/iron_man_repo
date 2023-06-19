@@ -1,0 +1,27 @@
+.component {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.input-field {
+  width: 100%;
+  max-width: 300px;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+@media screen and (max-width: 600px) {
+  .input-field {
+    max-width: 100%;
+  }
+}
